@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+google-search-results
+# openai==1.55.3
+langchain-openai
+langchain-google-genai
